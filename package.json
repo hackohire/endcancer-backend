@@ -28,6 +28,6 @@
     "jwks-rsa": "^1.5.1",
     "mongoose": "^5.5.14",
     "uuid-apikey": "^1.4.3",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.21"
   }
 }
